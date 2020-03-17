@@ -4,5 +4,5 @@ class Person
     @name = name
   end
   
-  def breed=
+  def name=(name)
 end
