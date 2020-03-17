@@ -4,7 +4,7 @@ class Dog
   end 
   
   def breed
-    attr_accessor :breed
+    @
   end
   
 end
